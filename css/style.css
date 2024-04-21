@@ -260,3 +260,66 @@ a {
 .contacts {
   margin-top: 70px;
 }
+
+.oge-ege {
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 70px;
+}
+
+.structure {
+  padding: 0 100px;
+  max-width: 1500px;
+  font-size: 25px;
+}
+
+.structure ul {
+  margin-top: 20px;
+}
+
+.structure .title {
+  font-size: 30px;
+}
+
+li {
+  margin-left: 55px;
+}
+
+li img {
+  width: 20px;
+}
+
+li::marker {
+  color: rgb(72, 158, 172);
+}
+
+.structure ul li a {
+  text-decoration: underline;
+}
+
+.prepare {
+  margin-top: 20px;
+}
+
+.structure ul {
+  display: grid;
+  gap: 10px;
+}
+.structure h2 {
+  margin-bottom: 10px;
+}
+
+.structure-text {
+  display: grid;
+  gap: 20px;
+}
+
+.ext-link img {
+  width: 20px;
+}
+
+.structure h3 {
+  margin-top: 70px;
+}
