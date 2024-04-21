@@ -19,11 +19,11 @@ a {
 
 .header {
   display: flex;
-
+  background-color: #7bdfee;
   font-size: 30px;
   justify-content: space-around;
   align-items: center;
-  padding: 0 350px 0 350px;
+  padding: 35px 350px 35px 350px;
 }
 
 .header pre {
@@ -48,7 +48,6 @@ a {
 
 .about-me {
   background: linear-gradient(#7bdfee, #c7ecf2);
-  padding-top: 35px;
   padding-bottom: 80px;
 }
 
